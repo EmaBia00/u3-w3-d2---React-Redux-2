@@ -1,0 +1,5 @@
+// Costanti azioni
+export const ADD_TO_FAVOURITE = "ADD_TO_FAVOURITE";
+export const REMOVE_FROM_FAVOURITE = "REMOVE_FROM_FAVOURITE";
+export const SET_SEARCH_RESULTS = "SET_SEARCH_RESULTS";
+export const SET_LOADING = "SET_LOADING";
